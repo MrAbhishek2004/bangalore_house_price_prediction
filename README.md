@@ -1,1 +1,2 @@
 # bangalore_house_price_prediction
+A Bangalore house price prediction model using linear regression, trained on a Kaggle dataset, predicts property values based on various features such as location, size, and amenities. The process involves collecting and preprocessing data to handle missing values and encode categorical variables. The linear regression algorithm then estimates coefficients for each feature to minimize prediction errors. The model's performance is evaluated and can forecast house prices for new data.
